@@ -1,0 +1,33 @@
+# Google Play Store Listing Metadata - Hải Phát IDC
+
+## App Title (Max 30 characters)
+Hải Phát IDC
+
+## Short Description (Max 80 characters)
+Xây dựng công trình chuyên nghiệp - Dân dụng, Công nghiệp, Giao thông, Hạ tầng
+
+## Full Description (SEO optimized, Vietnamese)
+
+Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát (HAI PHAT IDC) - Ứng dụng giới thiệu chính thức.
+
+Chuyên gia xây dựng công trình với hơn 6 năm kinh nghiệm, đã hoàn thành 100+ dự án, được 50+ đối tác tin tưởng và 95% khách hàng hài lòng.
+
+DỊCH VỤ CHÍNH:
+• Xây dựng công trình dân dụng: nhà ở, chung cư, trường học, bệnh viện
+• Xây dựng công trình công nghiệp: nhà xưởng, nhà máy, kho bãi
+• Xây dựng công trình giao thông: đường bộ, cầu, hầm
+• Xây dựng hạ tầng kỹ thuật: cấp thoát nước, điện, viễn thông
+
+TẠI SAO CHỌN HẢI PHÁT IDC:
+- Kinh nghiệm chuyên sâu, chất lượng đảm bảo
+- Giá cả cạnh tranh, báo giá minh bạch
+- Giao hàng đúng hẹn, hỗ trợ tận tâm
+- Chính sách bảo hành rõ ràng
+
+Liên hệ ngay: 0945 838 333 | contact@haiphatidc.store
+Địa chỉ: Thôn 3, Xã Vạn Phúc, Huyện Thanh Trì, TP Hà Nội
+
+Tải app để xem giới thiệu công ty, chính sách bảo hành - giao hàng và liên hệ một chạm.
+
+## Privacy Policy URL (placeholder - replace with your actual URL)
+https://haiphatidc.store/privacy-policy.html
